@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.trybpo.tryservice",
+    "sha256_cert_fingerprints":
+    ["35:3C:6E:09:4D:D8:32:D1:C6:0F:AF:E7:6E:FD:2E:CB:58:15:45:B2:02:69:35:AF:33:AC:CE:4D:88:3D:DB:56"]
+  }
+}]
